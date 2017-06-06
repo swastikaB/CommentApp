@@ -1,0 +1,29 @@
+body {
+  color: darkcyan;
+  /*text-indent: 40px;*/
+  width: 800px;
+  margin: 0 auto;
+  
+}
+
+.wrapper {
+    justify-content: center;
+    display: grid;
+}
+
+label {
+        font-size: 1.5em;
+}
+input[type=text]{
+    font-size: 1.5em;
+}
+
+li {
+    font-size: 1.5em;
+    display: grid;
+    justify-content: center;
+}
+td {
+    justify-content: center;
+    display: flex;
+}
